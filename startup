@@ -1,0 +1,1 @@
+python adc_mqtt.py /dev/ttyUSB0 192.168.1.11 sensor/thepit TankLevel/100.0/L Motor1Current/2.0/A Motor2Current/2.0/A
